@@ -1,0 +1,17 @@
+.recipe-enter {
+   opacity: 0;
+}
+
+.recipe-enter-active {
+   opacity: 1;
+   transition: opacity 500ms ease-in;
+}
+
+.recipe-exit {
+   opacity: 1;
+}
+
+.recipe-exit-active {
+   opacity: 0;
+   transition: opacity 500ms ease-in;
+}

@@ -1,0 +1,20 @@
+
+.main__container{
+   width: 1100px;
+   height: 100vh;
+   background: url("https://images.pexels.com/photos/4110008/pexels-photo-4110008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat center center;
+   background-size: cover;
+   display: flex;
+   justify-content: center;
+   box-sizing: border-box;
+   border: 1px solid bisque;
+   border-radius: 15px;
+
+}
+.main__container>h2{
+   font-size: 46px;
+   font-style: italic;
+   text-transform: uppercase;
+   color: aliceblue;
+   padding-top: 30px;
+}

@@ -1,0 +1,21 @@
+
+.footer__container{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 20px;
+   background-color: bisque;
+   border: 1px solid bisque;
+   border-radius: 15px;
+}
+.footer__adress{
+   display: flex;
+   flex-direction: column;
+
+}
+.social__media{
+   display: flex;
+}
+.social__item{
+   padding-left: 15px;
+}

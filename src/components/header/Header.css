@@ -1,0 +1,32 @@
+.header__block{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 20px;
+   background-color: bisque;
+   border: 1px solid bisque;
+   border-radius: 15px;
+	
+}
+
+.pages{
+	display: flex;
+}
+
+.links{
+   text-decoration: none;
+   color: rgb(109, 59, 59);
+   font-size: 18px;
+   line-height: 1.3em;
+   font-weight: 700;
+
+}
+
+.avatar{
+	margin-left: 20px;
+}
+
+.avatarimg{
+	width: 50px;
+	height: 50px;
+}
